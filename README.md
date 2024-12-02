@@ -1,17 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Netra 👋
 
+I'm a passionate software developer with expertise in ASP.NET MVC,Python & Base24. I'm always eager to learn new technologies and contribute to open-source projects.
 
-**Netra1996/Netra1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Skills:
+- **Languages:** C#, Python, SQL, TAL
+- **Frameworks & Tools:** .Net Framework,Django,Base24
+- **Version Control**:Git,GitHub
+- **Other:** SQL, Git
 
-Here are some ideas to get you started:
+### 🌱 Currently working on:
+- [Project Name]: A [short description of your project]
+- [Another Project Name]: Working on improving [describe the feature or project]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 📫 How to reach me:
+- Email: hiremathdaksha35@gmail.com
+- LinkedIn: https://www.linkedin.com/in/Netravati Hiremath
+- Twitter: [Twitter Handle]
 
-
+### ⚡ Fun Facts:
+- I love photography and capturing nature!
+- Always exploring new worlds through literature when I'm not coding.
