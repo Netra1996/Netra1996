@@ -6,7 +6,6 @@ I'm a passionate software developer with expertise in ASP.NET MVC,Python & Base2
 - **Languages:** C#, Python, SQL, TAL
 - **Frameworks & Tools:** .Net Framework,Django,Base24
 - **Version Control**:Git,GitHub
-- **Other:** SQL, Git
 
 ### 🌱 Currently working on:
 - [Project Name]: A [short description of your project]
