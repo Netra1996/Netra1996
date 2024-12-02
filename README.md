@@ -1,6 +1,6 @@
 # Hi there, I'm Netra 👋
 
-I'm a passionate software developer with expertise in ASP.NET MVC,Python & Base24. I'm always eager to learn new technologies and contribute to open-source projects.
+I'm a passionate software developer with expertise in ASP.NET MVC,Python Full Stack & Base24. I'm always eager to learn new technologies and contribute to open-source projects.
 
 ### 👨‍💻 Skills:
 - **Languages:** C#, Python, SQL, TAL
