@@ -19,4 +19,4 @@ I'm a passionate software developer with expertise in ASP.NET MVC,Python & Base2
 
 ### ⚡ Fun Facts:
 - I love photography and capturing nature!
-- Always exploring new worlds through literature when I'm not coding.
+- **Book Lover:** Always exploring new worlds through literature when I'm not coding.
