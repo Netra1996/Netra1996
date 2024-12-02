@@ -8,8 +8,7 @@ I'm a passionate software developer with expertise in ASP.NET MVC,Python & Base2
 - **Version Control**:Git,GitHub
 
 ### 🌱 Currently working on:
-- [Project Name]: A [short description of your project]
-- [Another Project Name]: Working on improving [describe the feature or project]
+- Base24 Project: Specializing in **Payment Systems**, **ATM/POS Transactions**, and "Financial Application Developement**.
 
 ### 📫 How to reach me:
 - Email: hiremathdaksha35@gmail.com
